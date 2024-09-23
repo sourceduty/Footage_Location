@@ -1,6 +1,6 @@
 ![Footage Location](https://github.com/user-attachments/assets/c096a4ff-328a-417f-82ef-85b5d8a4fcea)
 
-> Locate places to film videos and movies.
+> Locate places to record videos and movies.
 
 #
 
